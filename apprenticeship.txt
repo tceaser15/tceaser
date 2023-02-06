@@ -1,0 +1,28 @@
+56 Hours sick time - Can carry over 112 MAX
+Can work from home - If sick
+9 days minimum vacation
+4 days  Floating Holidays
+
+
+Workday - Schedule Holiday/ Vacation
+Request-Input Sick time in workday
+
+Update info in Workday
+
+Every Wednesday {: Time@IBM : SKSI > NA2 > GBSUNBIL > Total must be 40
+TIMEAWAY > SK77 > 
+
+Make Benefit Selections, ADAD , Life Insurance 
+Dental ^
+
+Discounts@IBM
+
+Get Involved, Volunteer, BRG Groups , P-Tech Mentor, 
+#BlackBRG 
+
+
+
+
+Trello
+
+Daily StandUps : 10 AM DAILY 
