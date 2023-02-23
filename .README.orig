@@ -1,0 +1,12 @@
+This A Demo
+Simple Read me file
+
+MOre text
+
+<<<<<<< HEAD
+This is not good
+
+SAVE
+=======
+CONFLICt
+>>>>>>> very-bad
